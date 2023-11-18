@@ -34,3 +34,29 @@ You must complete all the labs to successfully complete the project.
 **Containerize your application**
 1. Add deployment artifacts to your application
 2. Deploy your application
+
+
+
+<!-- cd agfzb-CloudAppDevelopment_Capstone/server
+Copied!
+Install the necessary Python packages.
+
+1
+python3 -m pip install -U -r requirements.txt
+Copied!
+Perform migrations to create necessary tables.
+
+1
+python3 manage.py makemigrations
+Copied!
+Run migration to activate models for the app.
+
+1
+python3 manage.py migrate
+Copied!
+Start the local development server.
+
+1
+python3 manage.py runserver
+Copied! -->
+
