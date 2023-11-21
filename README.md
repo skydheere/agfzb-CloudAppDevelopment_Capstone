@@ -59,4 +59,17 @@ Start the local development server.
 1
 python3 manage.py runserver
 Copied! -->
+<!-- {
+  "apikey": "NxWy7k28StaanOYWny2yd4D9LZ9MSjRLzDwM9PUnlxlL",
+  "host": "27ec14ab-3525-4ea0-a860-3ec65d1ff1fd-bluemix.cloudantnosqldb.appdomain.cloud",
+  "iam_apikey_description": "Auto-generated for key crn:v1:bluemix:public:cloudantnosqldb:eu-gb:a/804d94529145466eb7ab706096f0b8a9:ba9a0d0e-62a8-41c2-90a1-d62ee75eb324:resource-key:81e9937e-edf4-4457-a48f-95f554432c63",
+  "iam_apikey_name": "Service credentials-1",
+  "iam_role_crn": "crn:v1:bluemix:public:iam::::serviceRole:Manager",
+  "iam_serviceid_crn": "crn:v1:bluemix:public:iam-identity::a/804d94529145466eb7ab706096f0b8a9::serviceid:ServiceId-5be73579-7ab1-49c4-9b42-9557d17a248d",
+  "url": "https://27ec14ab-3525-4ea0-a860-3ec65d1ff1fd-bluemix.cloudantnosqldb.appdomain.cloud",
+  "username": "27ec14ab-3525-4ea0-a860-3ec65d1ff1fd-bluemix"
+} -->
 
+
+export IAM_API_KEY="NxWy7k28StaanOYWny2yd4D9LZ9MSjRLzDwM9PUnlxlL
+export COUCH_URL="https://27ec14ab-3525-4ea0-a860-3ec65d1ff1fd-bluemix.cloudantnosqldb.appdomain.cloud"
